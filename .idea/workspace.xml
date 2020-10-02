@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f16b7b25-0b35-4e3b-8718-670a510fb7ae" name="Default Changelist" comment="" />
+    <list default="true" id="f16b7b25-0b35-4e3b-8718-670a510fb7ae" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/card.html" beforeDir="false" afterPath="$PROJECT_DIR$/card.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart.html" beforeDir="false" afterPath="$PROJECT_DIR$/cart.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/goods.html" beforeDir="false" afterPath="$PROJECT_DIR$/goods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script/generateCatalog.js" beforeDir="false" afterPath="$PROJECT_DIR$/script/generateCatalog.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script/generateFooter.js" beforeDir="false" afterPath="$PROJECT_DIR$/script/generateFooter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script/generateHeader.js" beforeDir="false" afterPath="$PROJECT_DIR$/script/generateHeader.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script/generateSubCatalog.js" beforeDir="false" afterPath="$PROJECT_DIR$/script/generateSubCatalog.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script/main.js" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +24,9 @@
         <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1iE0MIl4oN5E6su0xM8IYFnWrcB" />
   <component name="ProjectViewState">
@@ -35,7 +49,8 @@
       <option name="presentableId" value="Default" />
       <updated>1601457395300</updated>
       <workItem from="1601457396553" duration="9486000" />
-      <workItem from="1601581257532" duration="2019000" />
+      <workItem from="1601581257532" duration="3992000" />
+      <workItem from="1601669428354" duration="8000" />
     </task>
     <servers />
   </component>
